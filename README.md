@@ -12,6 +12,24 @@ The project demonstrates a basic authentication system with protected routes and
 
 ---
 
+## ⚙️ Features
+
+* User Registration
+* Secure Login using JWT
+* Protected Profile Route
+* Image Upload using Multer
+* Display uploaded image in profile
+* Token stored in LocalStorage
+
+---
+
+## 🖥️ Screenshots
+
+<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/ceb40912-b94f-457c-951b-a85f090a96bc" />
+<img width="952" height="430" alt="image" src="https://github.com/user-attachments/assets/8e408c88-cdee-416c-ac42-9590b2feac93" />
+
+---
+
 ## 🚀 Tech Stack
 
 Frontend
@@ -53,23 +71,6 @@ frontend
  │  └ App.jsx
  └ package.json
 ```
-
----
-
-## ⚙️ Features
-
-* User Registration
-* Secure Login using JWT
-* Protected Profile Route
-* Image Upload using Multer
-* Display uploaded image in profile
-* Token stored in LocalStorage
-
----
-
-## 🖥️ Screenshots
-
-(Add screenshots here)
 
 ---
 
